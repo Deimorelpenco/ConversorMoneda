@@ -5,3 +5,13 @@
 
 
 <h4> Este proyecto es un desafío propuesto en el curso ONE de Oracle para utilizar algunos de los conocimientos adquiridos. <h4>
+  
+## :hammer:Funcionalidades del proyecto
+
+- `Funcionalidad 1`: Permite elegir entre un conversor de monedas y otro de temperatura.
+- `Funcionalidad 2`: convertir el peso en varias opciones de monedas y viceversa. 
+- `Funcionalidad 3`: Convertir los grados Celsius en otras unidades de temperaturas y veceversa.  
+  
+## ✅ Tecnología utilizada
+
+  - Java 8
